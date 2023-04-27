@@ -33,12 +33,6 @@ mvn clean package
 --s: partion scheme
 
 
-##Publication
-If you want to know more detailed information, please refer to this paper:
-
-Shuiying Yu, Yinting Zheng, Fan Zhang, Hanhua Chen, Hai Jin. TriJoin: A Time-Efficient and Scalable Three-Way Distributed Stream
-Join System. Journal of Internet Technology, Vol. 24, No. 2, pp: 475-485, Mar. 2023
-
 ## Authors and Copyright
 
 GSJoin is developed in National Engineering Research Center for Big Data Technology and System, Cluster and Grid Computing Lab, Services Computing Technology and System Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China by Shuiying Yu (shuiying@hust.edu.cn), Yinting Zheng(zhengyinting@hust.edu.cn), Fan Zhang(zhangf@hust.edu.cn), Hanhua Chen (chen@hust.edu.cn), Hai Jin (hjin@hust.edu.cn).
